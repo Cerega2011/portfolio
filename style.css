@@ -58,9 +58,10 @@ body {
 .video-poster {
     position: absolute;
     width: 100%;
-    height: 83%;
+    height: 80%;
     background-size: cover;
     border-radius: 10px 10px 0 0;
     top: 0;
     left: 0;
+    image-rendering: optimizeSpeed;
 }
